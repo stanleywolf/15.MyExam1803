@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\15.MyExam1803\Wizzards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
